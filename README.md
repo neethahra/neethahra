@@ -5,8 +5,7 @@ Aspiring Business Intelligence Analyst with over 6 years of industry experience 
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on TripleTen's Business Intelligence Analyst program and working on projects as part of various courses.
-- 🌱 I’m currently learning Power BI.
+- 🔭 I recently graduated from the TripleTen's Business Intelligence Analyst program.
 - 👯 I’m looking to collaborate on real worls projects as part of externship program from TripleTen.
 - 🤔 I’m actively looking for opportunities to leverage my data analysis and visualization skills
 - 📫 You can reach me at www.linkedin.com/in/neetha-ramamurthy
