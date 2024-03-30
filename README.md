@@ -1,5 +1,5 @@
 ### Hi there 👋
-Aspiring Business Intelligence Analyst with over 6 years of industry experience in Microsoft Programming Languages and UX Design. Self-motivated and driven to grasp and analyze complex data using relevant visualizations to enhance performance and increase sales.
+Business Intelligence Analyst with over 6 years of industry experience in Microsoft Programming Languages and UX Design. Self-motivated and driven to grasp and analyze complex data using relevant visualizations to enhance performance and increase sales.
 <!--
 **neethahra/neethahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
