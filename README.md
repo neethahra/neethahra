@@ -10,5 +10,5 @@ Here are some ideas to get you started: -->
 - 👯 I’m working on real world projects and volunteer initiatives to apply data analysis, business intelligence, and software development skills..
 - 🤔 I’m actively looking for opportunities to leverage my data analysis and visualization skills.
 - 📫 You can reach me at www.linkedin.com/in/neetha-ramamurthy and alternatively at neethahr@hotmail.com
-- 📫 A link to my resume for details - [Neetha_Ramamurthy_Resume](https://docs.google.com/document/d/1Q0u_uFRICL-jm01PpafZ9Rk8jijGNkmRNd7wW94EEAg/edit?usp=sharing)
+- 📫 A link to my resume for details - [Neetha_Ramamurthy_Resume](https://docs.google.com/document/d/1f80TTDHsqGuuCcIG8erCZ5ezGr4L08B1EAqcdR-MTzg/edit?usp=sharing)
 - ⚡ In my free time I love to explore outdoor with my family, go hiking, read, indulge in art and craft of any kind with my kids and try new recipes.
